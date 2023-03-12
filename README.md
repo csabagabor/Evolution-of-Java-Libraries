@@ -1,7 +1,7 @@
 # Evolution of Java Libraries
 - know exactly which version contains which methods, in which version a particular method is
 getting deprecated, when it is being removed etc.
-- contains information about the most widely used ~5000 Maven libraries + the Java standard
+- contains information about the most widely used ~1000 Maven libraries + the Java standard
 library (from Java 8 until Java 19)
 
 # Format of the files
@@ -96,6 +96,9 @@ Explanation:
 - class `org/mockito/Matchers` being removed in version `4.0.0`
 
 # Most used Maven libraries - TOP 100
-- analysis done by parsing all Java repositories having more than 140 stars
+- analysis done by parsing all Java repositories on Github having more than 140 stars
 
+![2](https://user-images.githubusercontent.com/37183688/224573390-f9b2b182-f26a-4926-be1f-823e14a4ff29.png)
 
+# Most used Maven libraries by version - TOP 100
+![2 - Copy](https://user-images.githubusercontent.com/37183688/224573408-2a4ea9b0-987b-4fd2-b49a-95daa6c1a2d9.png)

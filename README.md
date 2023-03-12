@@ -3,6 +3,7 @@
 getting deprecated, when it is being removed etc.
 - contains information about the most widely used ~1000 Maven libraries + the Java standard
 library (from Java 8 until Java 19)
+- utility used for parsing https://github.com/csabagabor/Jar-Parser-Utility
 
 # Format of the files
 - name of the file: `groupId&artifactId.txt` (for the Java standard libraries it is `java&java.txt`)

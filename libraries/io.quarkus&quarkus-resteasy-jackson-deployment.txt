@@ -1,0 +1,10 @@
+
++###io/quarkus/resteasy/jackson/deployment/ResteasyJacksonProcessor
+@0.20.0
++#<init>()V
+
++###io/quarkus/resteasy/jackson/deployment/ResteasyJacksonProcessor$$accessor
+@0.20.0
++#construct()Ljava/lang/Object;
+@1.6.0.CR1
+-###io/quarkus/resteasy/jackson/deployment/ResteasyJacksonProcessor$$accessor

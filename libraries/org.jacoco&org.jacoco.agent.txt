@@ -1,0 +1,7 @@
+
++###org/jacoco/agent/AgentJar
+@0.5.3.201107060350
++#getResource()Ljava/net/URL;
++#getResourceAsStream()Ljava/io/InputStream;
++#extractToTempLocation()Ljava/io/File;
++#extractTo(Ljava/io/File;)V

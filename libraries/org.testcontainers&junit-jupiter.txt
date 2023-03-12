@@ -1,0 +1,17 @@
+
++###org/testcontainers/junit/jupiter/Testcontainers
+@1.10.0
+@1.12.0
++#disabledWithoutDocker()Z
+
++###org/testcontainers/junit/jupiter/TestcontainersExtension
+@1.17.4
++#<init>()V
++#beforeAll(Lorg/junit/jupiter/api/extension/ExtensionContext;)V
++#afterAll(Lorg/junit/jupiter/api/extension/ExtensionContext;)V
++#beforeEach(Lorg/junit/jupiter/api/extension/ExtensionContext;)V
++#afterEach(Lorg/junit/jupiter/api/extension/ExtensionContext;)V
++#evaluateExecutionCondition(Lorg/junit/jupiter/api/extension/ExtensionContext;)Lorg/junit/jupiter/api/extension/ConditionEvaluationResult;
+
++###org/testcontainers/junit/jupiter/Container
+@1.10.0

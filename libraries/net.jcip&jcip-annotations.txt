@@ -1,0 +1,13 @@
+
++###net/jcip/annotations/GuardedBy
+@1.0
++#value()Ljava/lang/String;
+
++###net/jcip/annotations/Immutable
+@1.0
+
++###net/jcip/annotations/NotThreadSafe
+@1.0
+
++###net/jcip/annotations/ThreadSafe
+@1.0

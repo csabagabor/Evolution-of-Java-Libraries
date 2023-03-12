@@ -1,0 +1,17 @@
+
++###org/elasticsearch/transport/client/PreBuiltTransportClient
+@5.0.0-alpha5
++#<init>(Lorg/elasticsearch/common/settings/Settings;[Ljava/lang/Class;)V
++#<init>(Lorg/elasticsearch/common/settings/Settings;Ljava/util/Collection;)V
+@5.0.0-beta1
++#close()V
+@5.0.2
++#<init>(Lorg/elasticsearch/common/settings/Settings;Ljava/util/Collection;Lorg/elasticsearch/client/transport/TransportClient$HostFailureListener;)V
+
++###org/elasticsearch/transport/client/PreBuiltTransportClient$TransportPlugin
+@5.0.0-alpha5
++#<init>()V
++#getSettings()Ljava/util/List;
++#additionalSettings()Lorg/elasticsearch/common/settings/Settings;
+@5.0.0-beta1
+-###org/elasticsearch/transport/client/PreBuiltTransportClient$TransportPlugin

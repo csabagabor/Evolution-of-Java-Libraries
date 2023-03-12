@@ -1,0 +1,17 @@
+
++###com/google/auto/service/processor/AutoServiceProcessor
+@1.0-rc1
++#<init>()V
++#getSupportedAnnotationTypes()Lcom/google/common/collect/ImmutableSet;
++#getSupportedSourceVersion()Ljavax/lang/model/SourceVersion;
++#process(Ljava/util/Set;Ljavax/annotation/processing/RoundEnvironment;)Z
++#getSupportedAnnotationTypes()Ljava/util/Set;
+
++###com/google/auto/service/AutoService
+@1.0-rc1
++#value()Ljava/lang/Class;
+@1.0-rc4
++#value()[Ljava/lang/Class;
+-#value()Ljava/lang/Class;
+@1.0-rc5
+-###com/google/auto/service/AutoService

@@ -1,0 +1,5 @@
+
++###org/springframework/cloud/starter/eureka/server/EurekaServerStarterDeprecationWarningAutoConfiguration
+@1.4.0.RELEASE
++#<init>()V
++#logWarning()V

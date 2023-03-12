@@ -1,0 +1,11 @@
+
++###org/glassfish/jersey/test/external/ExternalTestContainerFactory
+@2.0-m01
++#<init>()V
++#create(Ljava/net/URI;Lorg/glassfish/jersey/server/Application;)Lorg/glassfish/jersey/test/spi/TestContainer;
+@2.0-m03
++#create(Ljava/net/URI;Lorg/glassfish/jersey/server/ApplicationHandler;)Lorg/glassfish/jersey/test/spi/TestContainer;
+-#create(Ljava/net/URI;Lorg/glassfish/jersey/server/Application;)Lorg/glassfish/jersey/test/spi/TestContainer;
+@2.8
++#create(Ljava/net/URI;Lorg/glassfish/jersey/test/DeploymentContext;)Lorg/glassfish/jersey/test/spi/TestContainer;
+-#create(Ljava/net/URI;Lorg/glassfish/jersey/server/ApplicationHandler;)Lorg/glassfish/jersey/test/spi/TestContainer;

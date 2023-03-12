@@ -1,0 +1,13 @@
+
++###org/slf4j/bridge/SLF4JBridgeHandler
+@1.5.2
++#install()V
++#uninstall()V
++#<init>()V
++#close()V
++#flush()V
++#publish(Ljava/util/logging/LogRecord;)V
+@1.6.2
++#isInstalled()Z
+@1.6.5
++#removeHandlersForRootLogger()V

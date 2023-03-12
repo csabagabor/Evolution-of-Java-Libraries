@@ -1,0 +1,17 @@
+
++###org/kohsuke/metainf_services/AnnotationProcessorImpl
+@1.0
++#<init>()V
++#getSupportedAnnotationTypes()Ljava/util/Set;
++#process(Ljava/util/Set;Ljavax/annotation/processing/RoundEnvironment;)Z
+@1.5
+-#getSupportedAnnotationTypes()Ljava/util/Set;
+@1.6
++#getSupportedSourceVersion()Ljavax/lang/model/SourceVersion;
+
++###org/kohsuke/MetaInfServices
+@1.0
++#value()Ljava/lang/Class;
+@1.6
++#value()[Ljava/lang/Class;
+-#value()Ljava/lang/Class;

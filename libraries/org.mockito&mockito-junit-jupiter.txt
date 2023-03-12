@@ -1,0 +1,17 @@
+
++###org/mockito/junit/jupiter/MockitoExtension
+@2.17.0
++#postProcessTestInstance(Ljava/lang/Object;Lorg/junit/jupiter/api/extension/ExtensionContext;)V
++#beforeEach(Lorg/junit/jupiter/api/extension/ExtensionContext;)V
++#afterEach(Lorg/junit/jupiter/api/extension/ExtensionContext;)V
+@2.19.0
++#<init>()V
+@2.21.0
++#supportsParameter(Lorg/junit/jupiter/api/extension/ParameterContext;Lorg/junit/jupiter/api/extension/ExtensionContext;)Z
++#resolveParameter(Lorg/junit/jupiter/api/extension/ParameterContext;Lorg/junit/jupiter/api/extension/ExtensionContext;)Ljava/lang/Object;
+@3.2.0
+-#postProcessTestInstance(Ljava/lang/Object;Lorg/junit/jupiter/api/extension/ExtensionContext;)V
+
++###org/mockito/junit/jupiter/MockitoSettings
+@2.17.0
++#strictness()Lorg/mockito/quality/Strictness;

@@ -1,0 +1,15 @@
+
++###io/quarkus/resteasy/jackson/runtime/QuarkusObjectMapperContextResolver
+@0.24.0
++#<init>()V
++#getContext(Ljava/lang/Class;)Lcom/fasterxml/jackson/databind/ObjectMapper;
++#getContext(Ljava/lang/Class;)Ljava/lang/Object;
+@1.4.0.CR1
+-###io/quarkus/resteasy/jackson/runtime/QuarkusObjectMapperContextResolver
+
++###io/quarkus/resteasy/jackson/runtime/ObjectMapperProducer
+@0.20.0
++#<init>()V
++#objectMapper()Lcom/fasterxml/jackson/databind/ObjectMapper;
+@0.24.0
+-###io/quarkus/resteasy/jackson/runtime/ObjectMapperProducer

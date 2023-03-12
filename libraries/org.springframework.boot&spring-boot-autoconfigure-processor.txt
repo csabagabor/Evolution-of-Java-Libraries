@@ -1,0 +1,7 @@
+
++###org/springframework/boot/autoconfigureprocessor/AutoConfigureAnnotationProcessor
+@1.5.0.RELEASE
++#<init>()V
++#process(Ljava/util/Set;Ljavax/annotation/processing/RoundEnvironment;)Z
+@1.5.9.RELEASE
++#getSupportedSourceVersion()Ljavax/lang/model/SourceVersion;

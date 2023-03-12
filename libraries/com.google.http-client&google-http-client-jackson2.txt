@@ -1,0 +1,12 @@
+
++###com/google/api/client/json/jackson2/JacksonFactory
+@1.11.0-beta
++#<init>()V
++#createJsonGenerator(Ljava/io/OutputStream;Ljava/nio/charset/Charset;)Lcom/google/api/client/json/JsonGenerator;
++#createJsonGenerator(Ljava/io/Writer;)Lcom/google/api/client/json/JsonGenerator;
++#createJsonParser(Ljava/io/Reader;)Lcom/google/api/client/json/JsonParser;
++#createJsonParser(Ljava/io/InputStream;)Lcom/google/api/client/json/JsonParser;
++#createJsonParser(Ljava/io/InputStream;Ljava/nio/charset/Charset;)Lcom/google/api/client/json/JsonParser;
++#createJsonParser(Ljava/lang/String;)Lcom/google/api/client/json/JsonParser;
+@1.16.0-rc
++#getDefaultInstance()Lcom/google/api/client/json/jackson2/JacksonFactory;

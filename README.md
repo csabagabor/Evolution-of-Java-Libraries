@@ -1,6 +1,6 @@
 # Evolution of Java Libraries
 - know exactly which version contains which methods, in which version a particular method is
-getting deprecated, when it is being removed etc.
+getting deprecated, when it is being removed etc. (only public methods from public classes)
 - contains information about the most widely used ~1000 Maven libraries + the Java standard
 library (from Java 8 until Java 19)
 - utility used for parsing https://github.com/csabagabor/Jar-Parser-Utility
